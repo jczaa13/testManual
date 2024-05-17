@@ -1,0 +1,21 @@
+Listar comandos:
+
+
+Alumno Pepito:
+
+descripción: "modificación de texto 2, agrego mi nombre al final de la linea 3 del parrafo 1"
+git XXXXXX
+git XXXXXX
+git XXXXXX
+git XXXXXX
+
+Alumno Pepita:
+
+descripción: "modificación de texto 2, agrego mi nombre al final de la linea 3 del parrafo 1"
+git XXXXXX
+git XXXXXX
+git XXXXXX
+git XXXXXX
+
+
+

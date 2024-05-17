@@ -1,0 +1,19 @@
+primera línea HOLA MUNDO Archivo 2
+
+Primer párrafo (método 1)
+linea 1 del primer párrafo
+linea 2 del primer párrafo
+linea 3 del primer párrafo
+linea 4 del primer párrafo
+
+Segundo párrafo (método 2)
+linea 1 del primer párrafo
+linea 2 del primer párrafo
+linea 3 del primer párrafo
+linea 4 del primer párrafo
+
+Tercer párrafo (método 3)
+linea 1 del primer párrafo
+linea 2 del primer párrafo
+linea 3 del primer párrafo
+linea 4 del primer párrafo
